@@ -1,0 +1,23 @@
+ERROR - 2017-11-24 04:11:09 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: SELECT `data`
+FROM `ci_session`
+WHERE `id` = 'b99uqgu4cclnuersluh87tfjvc79s3d0'
+AND `ip_address` = '127.0.0.1'
+ERROR - 2017-11-24 04:11:09 --> Unable to load the requested class: Assist
+ERROR - 2017-11-24 04:11:09 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: INSERT INTO `ci_session` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('b99uqgu4cclnuersluh87tfjvc79s3d0', '127.0.0.1', 1511489469, '__ci_last_regenerate|i:1511489469;')
+ERROR - 2017-11-24 04:11:09 --> Severity: Warning --> session_write_close(): Failed to write session data (user). Please verify that the current setting of session.save_path is correct (ci_session) Unknown 0
+ERROR - 2017-11-24 04:13:48 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: SELECT `data`
+FROM `ci_session`
+WHERE `id` = 'b99uqgu4cclnuersluh87tfjvc79s3d0'
+AND `ip_address` = '127.0.0.1'
+ERROR - 2017-11-24 04:13:48 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: INSERT INTO `ci_session` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('b99uqgu4cclnuersluh87tfjvc79s3d0', '127.0.0.1', 1511489628, '__ci_last_regenerate|i:1511489628;')
+ERROR - 2017-11-24 04:13:48 --> Severity: Warning --> session_write_close(): Failed to write session data (user). Please verify that the current setting of session.save_path is correct (ci_session) Unknown 0
+ERROR - 2017-11-24 04:19:40 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'sms' /var/www/html/sms/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2017-11-24 04:19:40 --> Unable to connect to the database
+ERROR - 2017-11-24 04:19:40 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'sms' /var/www/html/sms/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2017-11-24 04:19:40 --> Severity: Error --> session_start(): Failed to initialize storage module: user (path: ci_session) /var/www/html/sms/system/libraries/Session/Session.php 143
+ERROR - 2017-11-24 04:20:18 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: SELECT `data`
+FROM `ci_session`
+WHERE `id` = 'b99uqgu4cclnuersluh87tfjvc79s3d0'
+AND `ip_address` = '127.0.0.1'
+ERROR - 2017-11-24 04:20:18 --> Query error: Table 'sms.ci_session' doesn't exist - Invalid query: INSERT INTO `ci_session` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('b99uqgu4cclnuersluh87tfjvc79s3d0', '127.0.0.1', 1511490018, '__ci_last_regenerate|i:1511490018;')
+ERROR - 2017-11-24 04:20:18 --> Severity: Warning --> session_write_close(): Failed to write session data (user). Please verify that the current setting of session.save_path is correct (ci_session) Unknown 0

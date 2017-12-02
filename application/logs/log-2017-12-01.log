@@ -1,0 +1,25 @@
+ERROR - 2017-12-01 00:03:50 --> 404 Page Not Found: Logout/index
+ERROR - 2017-12-01 00:04:00 --> 404 Page Not Found: Logout/index
+ERROR - 2017-12-01 00:05:58 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:07:08 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:08:12 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:08:35 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:20:27 --> 404 Page Not Found: User/profile
+ERROR - 2017-12-01 00:21:17 --> 404 Page Not Found: Home/reports
+ERROR - 2017-12-01 00:23:45 --> 404 Page Not Found: Home/reports
+ERROR - 2017-12-01 00:33:23 --> 404 Page Not Found: Manageusers/index
+ERROR - 2017-12-01 00:34:51 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:34:53 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:42:51 --> 404 Page Not Found: Home/reports
+ERROR - 2017-12-01 00:53:36 --> 404 Page Not Found: Home/reports
+ERROR - 2017-12-01 00:53:41 --> 404 Page Not Found: Home/reports
+ERROR - 2017-12-01 00:58:44 --> Severity: error --> Exception: Call to undefined function url_decode() /var/www/html/sms/application/controllers/Home.php 56
+ERROR - 2017-12-01 00:58:57 --> 404 Page Not Found: Reports/assets
+ERROR - 2017-12-01 00:58:57 --> 404 Page Not Found: Reports/assets
+ERROR - 2017-12-01 00:59:04 --> 404 Page Not Found: Reports/assets
+ERROR - 2017-12-01 00:59:49 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 00:59:51 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 01:00:03 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 01:00:04 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 01:00:16 --> 404 Page Not Found: Create/assets
+ERROR - 2017-12-01 01:04:54 --> 404 Page Not Found: Create/assets

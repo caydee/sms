@@ -1,0 +1,178 @@
+ERROR - 2017-11-30 11:04:19 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 11:08:13 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2017-11-30 16:53:27 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 17:31:18 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 17:31:26 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2017-11-30 17:37:01 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 17:54:32 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 18:04:41 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 18:10:10 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 18:10:58 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 18:34:17 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 19
+ERROR - 2017-11-30 18:35:47 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 19
+ERROR - 2017-11-30 18:37:41 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 28
+ERROR - 2017-11-30 18:37:43 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 28
+ERROR - 2017-11-30 18:37:44 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 28
+ERROR - 2017-11-30 18:40:20 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 27
+ERROR - 2017-11-30 18:40:21 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 27
+ERROR - 2017-11-30 18:40:21 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 27
+ERROR - 2017-11-30 18:40:21 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 27
+ERROR - 2017-11-30 18:40:22 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/sms/application/models/User_model.php 27
+ERROR - 2017-11-30 18:45:11 --> Severity: error --> Exception: Call to undefined function curent_url() /var/www/html/sms/application/views/modules/login.php 40
+ERROR - 2017-11-30 19:03:05 --> 404 Page Not Found: Home/assets
+ERROR - 2017-11-30 19:03:05 --> 404 Page Not Found: Home/images
+ERROR - 2017-11-30 19:03:05 --> 404 Page Not Found: Home/assets
+ERROR - 2017-11-30 19:15:55 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 19:29:25 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 19:29:31 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 19:56:52 --> 404 Page Not Found: Home/template
+ERROR - 2017-11-30 19:59:56 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 19:59:56 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 19:59:56 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:00:00 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:00:00 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:02:38 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:03:25 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:03:53 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/sms/application/views/modules/body.php 25
+ERROR - 2017-11-30 20:03:55 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:05:12 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/sms/application/views/modules/body.php 28
+ERROR - 2017-11-30 20:05:13 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:05:52 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/sms/application/views/modules/body.php 25
+ERROR - 2017-11-30 20:05:53 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:08:52 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/sms/application/views/modules/body.php 25
+ERROR - 2017-11-30 20:08:53 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:09:20 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/sms/application/views/modules/body.php 25
+ERROR - 2017-11-30 20:09:21 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:10:28 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:11:15 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:11:51 --> Severity: Notice --> Undefined variable: subtitle /var/www/html/sms/application/views/modules/body.php 7
+ERROR - 2017-11-30 20:11:52 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:11:52 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:11:52 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:13:47 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:13:47 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:14:36 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:14:36 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:15:20 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:15:20 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:16:27 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:16:27 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:21:31 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:21:31 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:24:09 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:24:12 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 20:24:14 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:24:14 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:25:13 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:25:13 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:27:25 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:27:25 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:28:27 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:28:27 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:28:29 --> 404 Page Not Found: Create/index.html
+ERROR - 2017-11-30 20:28:53 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:28:53 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:29:12 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:29:12 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:29:35 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:29:36 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:30:00 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:30:00 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:30:43 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:30:43 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:31:12 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:31:12 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:31:36 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:31:36 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:32:04 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:32:05 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:32:25 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:32:25 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:32:56 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:32:56 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:33:32 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:33:32 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:34:28 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:34:28 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:34:53 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:34:53 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:36:50 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:36:50 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:45:44 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:45:44 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:48:08 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:48:08 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:48:49 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:48:49 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:51:18 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:51:18 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:54:37 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 20:54:37 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:58:33 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 20:58:33 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 21:14:05 --> Severity: Notice --> Undefined variable: county /var/www/html/sms/application/views/modules/msglist.php 51
+ERROR - 2017-11-30 21:14:05 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/sms/application/views/modules/msglist.php 51
+ERROR - 2017-11-30 21:14:06 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 21:14:06 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 21:22:33 --> Severity: Notice --> Undefined variable: county /var/www/html/sms/application/views/modules/msglist.php 51
+ERROR - 2017-11-30 21:22:33 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/sms/application/views/modules/msglist.php 51
+ERROR - 2017-11-30 21:22:37 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 21:22:37 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:56 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:28:58 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 21:28:58 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 21:29:30 --> Severity: Notice --> Undefined variable: county_name /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:29:30 --> Severity: error --> Exception: Cannot access empty property /var/www/html/sms/application/views/modules/msglist.php 53
+ERROR - 2017-11-30 21:29:32 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 21:29:32 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 21:29:49 --> 404 Page Not Found: Create/assets
+ERROR - 2017-11-30 21:29:49 --> 404 Page Not Found: Create/images
+ERROR - 2017-11-30 23:29:47 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 23:32:45 --> 404 Page Not Found: Images/img.jpg
+ERROR - 2017-11-30 23:34:18 --> 404 Page Not Found: Images/img.jpg
