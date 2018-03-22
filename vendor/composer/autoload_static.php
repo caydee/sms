@@ -6,73 +6,73 @@ namespace Composer\Autoload;
 
 class ComposerStaticInitd05617cd1a4560c2e8d02b252e02e78f
 {
-    public static $files = array (
+    public static $files = array(
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
     );
 
-    public static $prefixLengthsPsr4 = array (
-        'p' => 
-        array (
-            'phpDocumentor\\Reflection\\' => 25,
-        ),
-        'W' => 
-        array (
-            'Webmozart\\Assert\\' => 17,
-        ),
-        'S' => 
-        array (
-            'Symfony\\Component\\Yaml\\' => 23,
-        ),
-        'D' => 
-        array (
-            'Doctrine\\Instantiator\\' => 22,
-            'DeepCopy\\' => 9,
-        ),
-    );
-
-    public static $prefixDirsPsr4 = array (
-        'phpDocumentor\\Reflection\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
-        ),
-        'Webmozart\\Assert\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/webmozart/assert/src',
-        ),
-        'Symfony\\Component\\Yaml\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/symfony/yaml',
-        ),
-        'Doctrine\\Instantiator\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
-        ),
-        'DeepCopy\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
-        ),
-    );
-
-    public static $prefixesPsr0 = array (
-        'o' => 
-        array (
-            'org\\bovigo\\vfs' => 
-            array (
-                0 => __DIR__ . '/..' . '/mikey179/vfsStream/src/main/php',
+    public static $prefixLengthsPsr4 = array(
+        'p' =>
+            array(
+                'phpDocumentor\\Reflection\\' => 25,
             ),
-        ),
-        'P' => 
-        array (
-            'Prophecy\\' => 
-            array (
-                0 => __DIR__ . '/..' . '/phpspec/prophecy/src',
+        'W' =>
+            array(
+                'Webmozart\\Assert\\' => 17,
             ),
-        ),
+        'S' =>
+            array(
+                'Symfony\\Component\\Yaml\\' => 23,
+            ),
+        'D' =>
+            array(
+                'Doctrine\\Instantiator\\' => 22,
+                'DeepCopy\\' => 9,
+            ),
     );
 
-    public static $classMap = array (
+    public static $prefixDirsPsr4 = array(
+        'phpDocumentor\\Reflection\\' =>
+            array(
+                0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
+                1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+                2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            ),
+        'Webmozart\\Assert\\' =>
+            array(
+                0 => __DIR__ . '/..' . '/webmozart/assert/src',
+            ),
+        'Symfony\\Component\\Yaml\\' =>
+            array(
+                0 => __DIR__ . '/..' . '/symfony/yaml',
+            ),
+        'Doctrine\\Instantiator\\' =>
+            array(
+                0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
+            ),
+        'DeepCopy\\' =>
+            array(
+                0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
+            ),
+    );
+
+    public static $prefixesPsr0 = array(
+        'o' =>
+            array(
+                'org\\bovigo\\vfs' =>
+                    array(
+                        0 => __DIR__ . '/..' . '/mikey179/vfsStream/src/main/php',
+                    ),
+            ),
+        'P' =>
+            array(
+                'Prophecy\\' =>
+                    array(
+                        0 => __DIR__ . '/..' . '/phpspec/prophecy/src',
+                    ),
+            ),
+    );
+
+    public static $classMap = array(
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
         'File_Iterator_Factory' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Factory.php',
