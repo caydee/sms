@@ -15,6 +15,15 @@
     <script src="<?=base_url("assets/vendors/bootstrap/dist/js/bootstrap.min.js"); ?>"></script>
     <!-- Custom Theme Scripts -->
     <script src="<?=base_url("assets/js/custom.min.js"); ?>"></script>
-	
+	 <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.js"></script>
+   <script>
+     $(document).ready(function() {
+        $('.summernote').summernote({
+          height:200,
+           focus: true  
+        });
+      });
+     
+   </script>
   </body>
 </html>

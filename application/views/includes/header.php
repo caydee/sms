@@ -28,7 +28,8 @@
     <link href="<?=base_url("assets/vendors/bootstrap-daterangepicker/daterangepicker.css"); ?>" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="<?=base_url("assets/css/custom.min.css"); ?>" rel="stylesheet">
+    <link href="<?=base_url("assets/css/custom.css"); ?>" rel="stylesheet">
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.css" rel="stylesheet">
   </head>
 
   <body class="nav-md">

@@ -1,0 +1,8 @@
+ERROR - 2018-05-24 08:46:09 --> 404 Page Not Found: Create/assets
+ERROR - 2018-05-24 08:46:35 --> Query error: Table 'sms.counties' doesn't exist - Invalid query: SELECT *
+FROM `counties`
+ERROR - 2018-05-24 08:46:35 --> Severity: error --> Exception: Call to a member function result() on boolean /var/www/html/sms/application/models/Home_model.php 15
+ERROR - 2018-05-24 08:46:48 --> 404 Page Not Found: Reports/assets
+ERROR - 2018-05-24 09:30:31 --> Query error: Table 'sms.users' doesn't exist - Invalid query: SELECT *
+FROM `users`
+ERROR - 2018-05-24 09:30:31 --> Severity: error --> Exception: Call to a member function num_rows() on boolean /var/www/html/sms/application/models/User_model.php 14
